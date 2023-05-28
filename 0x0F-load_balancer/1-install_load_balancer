@@ -45,7 +45,7 @@ frontend greenwapps-tech-frontend
 
 backend greenwapps-tech-backend
     balance roundrobin
-    server 163033-web-01 35.175.63.14:80 check
+    server 163033-web-01 54.237.74.4:80 check
     server 163033-web-02 107.23.90.252:80 check
 "
 
